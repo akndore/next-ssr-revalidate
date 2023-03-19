@@ -1,0 +1,14 @@
+{
+  "locale": [
+    {
+      "id": 1,
+      "name": "Merhaba Dünya3",
+      "languageId": 1
+    },
+    {
+      "id": 2,
+      "name": "Hello Word3",
+      "languageId": 2
+    }
+  ]
+}
